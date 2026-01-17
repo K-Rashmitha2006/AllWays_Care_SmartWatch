@@ -22,20 +22,4 @@
 
 ---
 
-##  Installation & Setup
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/charank2006/AllWays-Care-Smart-Watch.git](https://github.com/charank2006/AllWays-Care-Smart-Watch.git)
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Configuration:**
-    Update the `emergency_contacts.json` with the phone numbers and names of the caregivers.
-
----
-
-
-© 2026 AllWays-Care Team
